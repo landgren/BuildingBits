@@ -16,14 +16,14 @@ This reposity contains the source files for the Building Bits construction syste
 - 1/4-20 bolts (5/8 inch length recommended)
 - Imagination
 
-## Creation Instructions
-# Brackets and Nuts
+# Creation Instructions
+## Brackets and Nuts
 Brackets and Nuts should be 3D printed.  After printing, finish each nut by placing a metal nut in the void on the back, and press fit it in using pliers:
 GIF
 
 Brackets and Nuts can be customized as desired, but it is generally easier (and faster) to laser cut custom Plates.
 
-# Plates
+## Plates
 Plates are intended to be quickly and easily customized to fit your custom parts.  The fundamental Plate layout is depicted in BLANK, use the example plate files or start from scratch using the given dimensions.  As long as your Plates follow the conventions in BLANK, it fit well with your Brackets, Nuts, and other Plates.  Plates should be laser cut from 1/4 inch thick acyrlic.  
 
 ## Usage Instructions
