@@ -41,18 +41,18 @@ That's it!  Now you can easily build up your structures with the required struct
 
 PLANT DROPPER GIF
 
-## Building Bits in Action
-# STC 209
+# Building Bits in Action
+## STC 209
 Building Bits has been used by students in Princeton STC 209: Engineering and the Arts course.  Students used Building Bits to quickly create interactive art installations that used motors, servos, and lights.  
 
 PIC
 
-# Makerfaire 2017
+## Makerfaire 2017
 Princeton Council on Science and Technology took Building Bits to the 2017 NYC Makerfaire!  Building Bits were used as (literal) education platforms where others could explore sererval different circuit building workshops.  Building Bits helped keep everything organized and secure.
 
 PIC
 
-# Radiolab
+## Radiolab
 The folks at WYNC's RadioLab podcast used Building Bits to construct a "plant dropper" experimental device.  Check out the episode and see how Building Bits did at http://www.radiolab.org/story/smarty-plants/.  
 
 
