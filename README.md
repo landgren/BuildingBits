@@ -6,13 +6,13 @@ There are two basic types of parts in the Building Bits system:
 1. Brackets and Nuts: These parts are 3D printed, and form the connective joints between Plates.  All connections use 1/4-20 bolts.  
 2. Plates: Plates are laser cut from 1/4 inch think acyrlic sheets, and are used to create floors, walls, and beams in your projects.  
 
-This reposity contains the source files for the Building Bits construction system.  The files for all 3D printed parts are given in Inventor part format (.ipt) as well as .stl.  The laser cut plates are given in .svg.
+This repository contains the source files for the Building Bits construction system.  The files for all 3D printed parts are given in Inventor part format (.ipt) as well as .stl.  The laser cut plates are given in .dwg.
 
 ## Parts List
 - 3D printer
 - Laser cutter
 - 1/4 inch thick acyrlic sheet
-- 1/4-20 nuts
+- 1/4-20 nuts (7/16 inch edge-to-edge width recommended)
 - 1/4-20 bolts (5/8 inch length recommended)
 - Imagination
 
