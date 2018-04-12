@@ -1,6 +1,6 @@
 # BuildingBits
 ## Introduction
-Welcome to Building Bits!  Building bits is an open source modular building system, similar to Lego, that can be easily customized to meet specific needs.  It can be made from scratch using a laser cutter and 3D printer.  
+Welcome to Building Bits!  Building Bits is an open source modular building system, similar to Lego, that can be easily customized to meet specific needs.  It can be made from scratch using a laser cutter and 3D printer.  
 
 There are two basic types of parts in the Building Bits system:
 1. Brackets and Nuts: These parts are 3D printed, and form the connective joints between Plates.  All connections use 1/4-20 bolts.  
