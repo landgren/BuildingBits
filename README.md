@@ -18,8 +18,7 @@ This repository contains the source files for the Building Bits construction sys
 
 # Creation Instructions
 ## Brackets and Nuts
-Brackets and Nuts should be 3D printed.  After printing, finish each nut by placing a metal nut in the void on the back, and press fit it in using pliers:
-GIF
+Brackets and Nuts should be 3D printed.  After printing, finish each nut by placing a metal nut in the void on the back, and press fit it in using pliers.
 
 Brackets and Nuts can be customized as desired, but it is generally easier (and faster) to laser cut custom Plates.
 
@@ -35,11 +34,11 @@ To connect two plates, use an L-Bracket and fit it into the relevant holes.
 
 If you need more strength, place a BackNut on the backside of the hole, and thread a bolt in from the bracket side.
 
-GIF
+![alt text](Pictures/BasicAssembly2.gif "Assemble Demo 2")
 
 That's it!  Now you can easily build up your structures with the required structural integrity.  
 
-PLANT DROPPER GIF
+![alt text](Pictures/FullAssembly.gif "Assemble Demo 3")
 
 # Building Bits in Action
 ## Radiolab
@@ -54,7 +53,6 @@ Building Bits has been used by students in Princeton STC 209: Engineering and th
 ## Makerfaire 2017
 Princeton Council on Science and Technology took Building Bits to the 2017 NYC Makerfaire!  Building Bits were used as (literal) education platforms where others could explore sererval different circuit building workshops.  Building Bits helped keep everything organized and secure.
 
-PIC
 
 ## Princeton "Living at the Intersection" Showcase Presentation
 Building Bits was featured during a showcase presentation at the 2018 Princeton "Living at the Intersection" Symposium.  The Building Bits omni-directional camera rig, seen below, was a big hit.  
