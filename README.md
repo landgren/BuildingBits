@@ -31,7 +31,7 @@ Using Bulding Bits is simple.
 
 To connect two plates, use an L-Bracket and fit it into the relevant holes.  
 
-GIF
+![alt text](Pictures/BasicAssembly1.gif "Assemble Demo 1")
 
 If you need more strength, place a BackNut on the backside of the hole, and thread a bolt in from the bracket side.
 
