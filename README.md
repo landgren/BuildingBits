@@ -48,7 +48,8 @@ The folks at WYNC's RadioLab podcast used Building Bits to construct a "plant dr
 ## STC 209
 Building Bits has been used by students in Princeton STC 209: Engineering and the Arts course.  Students used Building Bits to quickly create interactive art installations that used motors, servos, and lights.  
 
-PIC
+
+![alt text](Pictures/StudioLab.png "Students using Building Bits in STC 209")
 
 ## Makerfaire 2017
 Princeton Council on Science and Technology took Building Bits to the 2017 NYC Makerfaire!  Building Bits were used as (literal) education platforms where others could explore sererval different circuit building workshops.  Building Bits helped keep everything organized and secure.
@@ -58,7 +59,7 @@ PIC
 ## Princeton "Living at the Intersection" Showcase Presentation
 Building Bits was featured during a showcase presentation at the 2018 Princeton "Living at the Intersection" Symposium.  The Building Bits omni-directional camera rig, seen below, was a big hit.  
 
-Omni-Pic
+![alt text](Pictures/OmniCamera.png "Omni Camera Rig")
 
 
 
